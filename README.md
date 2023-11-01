@@ -1,2 +1,7 @@
 # A2_Vessel_Navigation
-COMP202
+COMP202 assignment
+Theory applied:
+  - Variables
+  - Functions
+  - Loops
+  - Modules
