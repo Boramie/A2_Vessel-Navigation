@@ -1,2 +1,2 @@
-# A2_Vessel-Navigation
+# A2_Vessel_Navigation
 COMP202
